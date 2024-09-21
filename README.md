@@ -19,9 +19,3 @@
 
 
 <br/>
-<p align="right">
-  <img src="https://img.icons8.com/ios/50/FFFFFF/minus-math.png" height="50" />
-  <a href="https://www.buymeacoffee.com/devil1964">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devil1964" />
-  </a>
-</p>
