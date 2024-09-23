@@ -1,5 +1,5 @@
-# 💫 About Me:
-![linkedInBG](https://github.com/user-attachments/assets/a5a883a6-edee-41d4-b2ea-2ef5158dfa2a)
+# 👨‍💻 My Profile:
+[![](https://github.com/user-attachments/assets/a5a883a6-edee-41d4-b2ea-2ef5158dfa2a)](mailto:devanshg.cse@gmail.com)
 
 - 👋 Hello! I'm a Computer Science Engineering student with a strong passion for technology and a keen interest in Full Stack Development and Data Structures and Algorithms (DSA). I am constantly driven to expand my knowledge and skills in these areas.
 - 💼 Currently, I am actively seeking a Software Development Engineer (SDE) role where I can apply my skills and continue to grow. I stay updated with the latest technology trends and innovations to ensure my work remains cutting-edge.
