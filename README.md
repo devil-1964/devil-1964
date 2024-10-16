@@ -3,7 +3,7 @@
 
 - 👋 Hello! I'm a Computer Science Engineering student with a strong passion for technology and a keen interest in Full Stack Development and Data Structures and Algorithms (DSA). I am constantly driven to expand my knowledge and skills in these areas.
 - 💼 Currently, I am actively seeking a Software Development Engineer (SDE) role where I can apply my skills and continue to grow. I stay updated with the latest technology trends and innovations to ensure my work remains cutting-edge.
-- ✨ Explore my <a href="https://devanshportfolio-devil-1964s-projects.vercel.app/" target="_blank">portfolio</a> to see my projects and work.
+- ✨ Explore my <a href="https://devil-1964.vercel.app/" target="_blank">portfolio</a> to see my projects and work.
 - ✉️ If you have any questions, would like to engage in tech-related discussions, or explore potential collaborations, please feel free to reach out. Let's connect, learn from each other, and create amazing things together!
 
 # 🌐 Socials:
