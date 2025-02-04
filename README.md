@@ -16,15 +16,6 @@ Hello! I'm a **Computer Science Engineering** student with a strong passion for 
 - ✨ **Explore my** [**portfolio**](https://devil-1964.vercel.app/) **to see my projects and work.**
 - ✉️ Feel free to **reach out** for tech discussions, potential collaborations, or any queries. Let's connect and create amazing things together!
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-  
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=devil-1964&theme=dark&hide_border=true)
-  
-</div>
 
 ---
 
